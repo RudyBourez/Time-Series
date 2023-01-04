@@ -2,3 +2,6 @@ sqlalchemy
 pandas
 requests
 seaborn
+pmdarima
+scikit-learn
+xgboost
